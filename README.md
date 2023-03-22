@@ -9,3 +9,13 @@
 - SQL allows users to create, modify, and retrieve data from databases, as well as to perform various operations such as sorting, filtering, and aggregating data.
 - SQL is a declarative language, meaning that users specify what they want the database to do rather than how to do it. 
 
+# Types of Databases
+
+| SQL                                              | NoSQL  | 
+| :------------:                                   |:---------------:| 
+| RELATIONAL DATABASE MANAGEMENT SYSTEM (RDBMS)    | Non-relational or distributed database system. | 
+| fixed or static or predefined schema             | They have dynamic schema        |  
+| not suited for hierarchical data storage         | best suited for hierarchical data storage        | 
+| best suited for complex queries                  | not so good for complex queries |
+| Vertically Scalable                              | Horizontally scalable|
+| Follows ACID property                            | Follows CAP(consistency, availability, partition tolerance)
