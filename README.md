@@ -9,6 +9,11 @@
 - SQL allows users to create, modify, and retrieve data from databases, as well as to perform various operations such as sorting, filtering, and aggregating data.
 - SQL is a declarative language, meaning that users specify what they want the database to do rather than how to do it. 
 
+# NoSQL
+- NoSQL stands for "Not only SQL," and it refers to a category of databases that do not use the traditional SQL (Structured Query Language) for storing and retrieving data. 
+- NoSQL databases use different data models and query languages to manage and access data.
+- designed to handle large-scale, unstructured, and semi-structured data.
+
 # Types of Databases
 
 | SQL                                              | NoSQL  | 
@@ -19,3 +24,4 @@
 | best suited for complex queries                  | not so good for complex queries |
 | Vertically Scalable                              | Horizontally scalable|
 | Follows ACID property                            | Follows CAP(consistency, availability, partition tolerance)
+
