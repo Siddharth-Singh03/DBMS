@@ -26,13 +26,13 @@
 | Follows ACID property                            | Follows CAP(consistency, availability, partition tolerance)
 
 # Types of NoSQL databases
-**1. Document-oriented databases:** These databases store data in the form of documents, which can be nested and hierarchical. Examples include MongoDB and Couchbase.
+**1. Document-oriented databases:** These databases store data in the form of documents, which can be nested and hierarchical. **Examples include MongoDB and Couchbase.**
 
-**2. Key-value stores:** These databases store data as key-value pairs, making them useful for caching and high-speed data retrieval. Examples include Redis and Riak.
+**2. Key-value stores:** These databases store data as key-value pairs, making them useful for caching and high-speed data retrieval. **Examples include Redis and Riak.**
 
-**3. Column-family stores:** These databases store data in column families, which contain columns of related data. Examples include Apache Cassandra and HBase.
+**3. Column-family stores:** These databases store data in column families, which contain columns of related data. **Examples include Apache Cassandra and HBase.**
 
-**4. Graph databases:** These databases store data in a graph format, which is useful for modeling relationships between data points. Examples include Neo4j and OrientDB.
+**4. Graph databases:** These databases store data in a graph format, which is useful for modeling relationships between data points. **Examples include Neo4j and OrientDB.**
 
-**5. Object-oriented databases:** These databases store data in the form of objects, which can be used to represent complex data structures. Examples include db4o and Versant.
+**5. Object-oriented databases:** These databases store data in the form of objects, which can be used to represent complex data structures. **Examples include db4o and Versant.**
 
